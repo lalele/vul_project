@@ -1,0 +1,40 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+    "dependencies": {
+    "@socheatsok78/storybook-addon-vuetify": "^0.1.9",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "vuetify": "^2.5.9"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@storybook/addon-actions": "^6.3.12",
+    "@storybook/addon-essentials": "^6.3.12",
+    "@storybook/addon-links": "^6.3.12",
+    "@storybook/preset-scss": "^1.0.3",
+    "@storybook/vue": "^6.3.12",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^5.2.7",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass": "^1.43.4",
+    "sass-loader": "^10.1.1",
+    "style-loader": "^2.0.0",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.11",
+    "vue-cli-plugin-vuetify": "~2.4.2",
+    "vuetify-loader": "^1.7.0"
+  }
+}
